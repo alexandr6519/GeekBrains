@@ -1,5 +1,5 @@
 # Head 1
 
-## We learning 0f working in GitHub
+## We learning of working in GitHub
 
-One more line from Github
+
