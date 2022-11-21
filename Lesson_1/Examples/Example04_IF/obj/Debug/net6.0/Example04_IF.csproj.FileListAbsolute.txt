@@ -1,0 +1,15 @@
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.csproj.AssemblyReference.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.AssemblyInfoInputs.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.AssemblyInfo.cs
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.csproj.CoreCompileInputs.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\bin\Debug\net6.0\Example04_IF.exe
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\bin\Debug\net6.0\Example04_IF.deps.json
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\bin\Debug\net6.0\Example04_IF.runtimeconfig.json
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\bin\Debug\net6.0\Example04_IF.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\bin\Debug\net6.0\Example04_IF.pdb
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\refint\Example04_IF.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.pdb
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\Example04_IF.genruntimeconfig.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example04_IF\obj\Debug\net6.0\ref\Example04_IF.dll
