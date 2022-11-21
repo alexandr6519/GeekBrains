@@ -1,10 +1,5 @@
 ﻿Console.Clear();
-/*Console.SetCursorPosition(1, 10);
-Console.WriteLine("*");
-Console.SetCursorPosition(30, 0);
-Console.WriteLine("*");
-Console.SetCursorPosition(60, 10);
-Console.WriteLine("*");*/
+
 int a1 = 1, a2 = 16, b1 = 40, b2 = 0, c1 = 80, c2 = 16;
 
 Console.SetCursorPosition(a1, a2);
