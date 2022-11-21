@@ -1,0 +1,15 @@
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.csproj.AssemblyReference.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.AssemblyInfoInputs.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.AssemblyInfo.cs
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.csproj.CoreCompileInputs.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\bin\Debug\net6.0\Example06_TaskOfFreandsAndDog.exe
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\bin\Debug\net6.0\Example06_TaskOfFreandsAndDog.deps.json
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\bin\Debug\net6.0\Example06_TaskOfFreandsAndDog.runtimeconfig.json
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\bin\Debug\net6.0\Example06_TaskOfFreandsAndDog.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\bin\Debug\net6.0\Example06_TaskOfFreandsAndDog.pdb
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\refint\Example06_TaskOfFreandsAndDog.dll
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.pdb
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\Example06_TaskOfFreandsAndDog.genruntimeconfig.cache
+C:\F1\GeekBrains\Lesson_1\Examples\Example06_TaskOfFreandsAndDog\obj\Debug\net6.0\ref\Example06_TaskOfFreandsAndDog.dll
