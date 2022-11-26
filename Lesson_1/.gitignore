@@ -1,3 +1,7 @@
 **/bin
 **/obj
 *.csproj
+<<<<<<< HEAD
+=======
+.gitignore
+>>>>>>> 4a062f1242cd34be34cbef8878b9927a5d11c1f3
